@@ -1,0 +1,5 @@
+Step 1 : browse pdf
+Step 2 : preprocessing(PreProcess.java)
+         2.1 : stopword removal
+		 2.2 : feature extraction using stanford Maxtagger
+Step 3 : Kmean & SOM
